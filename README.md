@@ -1,16 +1,20 @@
-## Hi there 👋
+## Hi, I'm Vamshi 👋
+Cloud & DevOps Engineer with hands-on experience designing, automating, and operating cloud platforms across AWS, Azure, and GCP.
 
-<!--
-**vamshiraj-gitops/vamshiraj-gitops** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🔧 Core Skills
+- Cloud: AWS, Azure, GCP
+- IaC: Terraform, ARM, Bicep
+- Containers: Docker, Kubernetes (EKS, AKS, GKE)
+- CI/CD: Azure DevOps, GitHub Actions, Jenkins
+- GitOps: ArgoCD, Flux
+- Monitoring: Datadog, Prometheus, Grafana
+- Security: IAM, RBAC, Key Vault, Secrets Manager
 
-Here are some ideas to get you started:
+### 📦 What You'll Find Here
+- Terraform modules for cloud infrastructure
+- CI/CD pipeline examples
+- Kubernetes manifests & Helm charts
+- GitOps and automation experiments
+- Learning labs and best-practice templates
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
